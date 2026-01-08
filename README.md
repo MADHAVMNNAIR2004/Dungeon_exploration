@@ -1,4 +1,4 @@
-# Dungeon Exploration Game 🏰
+# Dungeon Exploration Game 
 
 A simple 2D dungeon exploration game built using Python and Pygame.
 
